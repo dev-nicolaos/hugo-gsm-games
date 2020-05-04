@@ -1,0 +1,11 @@
+---
+title: "Cut Throat Mafia"
+draft: false
+indoors: true
+outdoors: true
+events:
+  - sgu
+  - sunday school
+---
+
+Ideally, you need a somewhat dark space with obstacles or multiple rooms to impair sight lines. Before starting, 2-4 players are secretly selected to be the mafia. Play then begins and players move around the space casually interacting with one another. The mafia may "kill" a player by sliding a finger or hand across another player's throat. Generally speaking mafia should try to do this as inconspicuously as possible. If a player is killed that person should continue to walk around for about 10 seconds (in order to avoid making it painfully obvious who killed them), and then fall to the floor. When a living player finds a player "dead" on floor, they call "dead body!" to the rest of the group. At this point all player convene a town hall around the dead player. The facilitator then asks for an accusation, and one player accuses another of being the killer. If another player seconds the accusation, the defendant is given a short amount of time to defend themselves. The group then votes on whether or not to kill the defendant, needing a majority to pronounce them guilty. If a majority is not achieved, one more accusation can be made, but no more than one conviction or two accusations should take place per town hall. Players do not reveal whether or not they are mafia when they die, but the facilitator knows who the mafia is. Play then resumes and the process repeats until either all the mafia are eliminated or are the only ones left. Mafia do not know who the other mafia are, and thus are also vulnerable to being killed by another mafia. If the space allows, a mafia may escort a dead body to a hiding place in order to keep them from being found. The dead body should play along and go with them, but the mafia does risk being seen "stashing" the body. At the end of a town hall, all dead players should return to a designated space for them to watch. Dead players may not give any insight to the living. Game Twist: If in a smaller space, have mafia kill people by sticking a tongue out at them (àla killer frogs) rather than sliding a finger across their throat.
